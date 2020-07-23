@@ -1,3 +1,19 @@
 {
-  "TV": []
+  "Television": [
+    {
+      "campId": 1000,
+      "asinId": 2000,
+      "matchClauses": ["Sanyo", "Sanyo TV", "Sanya Tv", "Sanyo 32 inch tv"]
+    },
+    {
+      "campId": 1002,
+      "asinId": 2002,
+      "matchClauses": ["LG", "LG TV", "LG 32 inch tv"]
+    },
+    {
+      "campId": 1005,
+      "asinId": 2005,
+      "matchClauses": ["Sanyo", "Sanyo TV", "Sanya Tv", "Sanyo 32 inch tv"]
+    }
+  ]
 }
