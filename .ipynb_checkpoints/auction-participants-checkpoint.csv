@@ -1,0 +1,14 @@
+campaign_id, asinId, asinName, type, bid
+1000, 2000, Sanyo 32 inch TV, Television, 9000
+1001, 2001, OnePlus Nord Phone, Mobile, 8000
+1002, 2002, LG 32 inch TV, Television, 12000
+1003, 2003, Realme X2 Pro, Mobile, 7000
+1004, 2004, Nokia MZ, Mobile, 4000
+1005, 2005, Sanyo 32 inch TV, Television, 8000
+1006, 2006, 32 cups Dinner set, Utensils, 5000
+1007, 2007, M Tshirt, Clothing, 300
+1008, 2008, Raspberry Pi 2GB, Electronics, 2000
+1009, 2009, GTA-San Andreas, Games, 1000
+1010, 2010, Forza Horizon 4, Games, 2500
+1011, 2011, AllenSolly M Tshirt, Clothing, 1000
+1012, 2012, The Witcher wild hunt, Games, 1010
